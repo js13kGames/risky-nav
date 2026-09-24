@@ -1,4 +1,8 @@
 ---
+genres:
+  - survival
+  - adventure
+  - stealth
 post: https://sebadorn.de/2018/09/15/js13kgames-tricks-applied-in-risky-nav
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
